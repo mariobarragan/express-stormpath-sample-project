@@ -1,4 +1,4 @@
-# express-stormpath-sample-project
+# express-stormpath-leproject
 
 1. go to stormpath.com and make an account.
 2. log in and create an api key. then download it and put it somewhere safe.
